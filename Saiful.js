@@ -174,7 +174,7 @@ function onBot({ models: botModel }) {
                                         } catch (error) { isError = error; }
                                         if (check || !isError) break;
                                     }
-                                    if (!check || isError) throw global.getText('priyansh', 'cantInstallPackage', reqDependencies, module.config.name, isError);
+                                    if (!check || isError) throw global.getText('saiful', 'cantInstallPackage', reqDependencies, module.config.name, isError);
                                 }
                             }
                             logger.loader(global.getText('saiful', 'loadedPackage', module.config.name));
@@ -227,7 +227,7 @@ function onBot({ models: botModel }) {
                                 } catch {
                                     let check = false;
                                     let isError;
-                                    logger.loader(global.getText('priyansh', 'notFoundPackage', dependency, event.config.name), 'warn');
+                                    logger.loader(global.getText('saiful', 'notFoundPackage', dependency, event.config.name), 'warn');
                                     execSync('npm --package-lock false --save install' + dependency + (event.config.dependencies[dependency] == '*' || event.config.dependencies[dependency] == '' ? '' : '@' + event.config.dependencies[dependency]), { 'stdio': 'inherit', 'env': process['env'], 'shell': true, 'cwd': join(__dirname, 'nodemodules') });
                                     for (let i = 1; i <= 3; i++) {
                                         try {
