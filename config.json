@@ -17,7 +17,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Saif-Bot",
-    "PREFIX": ".",
+    "PREFIX": "!",
     "ADMINBOT": [
         "100011152309303"
     ],
