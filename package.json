@@ -1,7 +1,7 @@
 {
   "name": "Saiful",
   "version": "10.1.1",
-  "description": "A simple Facebook Messenger Bot made by 𝖲𝖺𝗂𝖿𝗎𝗅 𝗂𝗌𝗅𝖺𝗆.",
+  "description": "A simple Facebook Messenger Bot made by 𝖲𝖺𝗂𝖿𝗎𝗅 𝖨𝗌𝗅𝖺𝗆.",
   "main": "Saiful.js",
   "engines": {
       "node": "20.x",
