@@ -63,7 +63,7 @@ function startBot(message) {
 //========= Check update from Github =========//
 ////////////////////////////////////////////////
 
-axios.get("https://raw.githubusercontent.com/priyanshu192/bot/main/package.json")
+axios.get("https://github.com/saiful069/Saif-bot-v2/blob/main/package.json")
     .then((res) => {
         logger(res.data.name, "[ NAME ]");
         logger(`Version: ${res.data.version}`, "[ VERSION ]");
