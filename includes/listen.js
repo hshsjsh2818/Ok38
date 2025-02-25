@@ -135,7 +135,7 @@ module.exports = function ({ api, models }) {
                     global['data']['commandBanned']['set'](idUsers, dataU['data']['commandBanned']);
             }
             for (const dataC of currencies) global.data.allCurrenciesID.push(String(dataC['userID']));
-            logger.loader(global.getText('listen', 'loadedEnvironmentUser')), logger(global.getText('listen', 'successLoadEnvironment'), '[ Priyansh ]');
+            logger.loader(global.getText('listen', 'loadedEnvironmentUser')), logger(global.getText('listen', 'successLoadEnvironment'), '[ Saiful ]');
         } catch (error) {
             return logger.loader(global.getText('listen', 'failLoadEnvironment', error), 'error');
         }
