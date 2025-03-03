@@ -1,68 +1,62 @@
-# Saiful Bot v2
+<img src="https://i.imgur.com/f63jkFX.jpeg" alt="banner">
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 𝗖𝗬𝗕𝗘𝗥 -𝗖𝗔𝗧 - 𝗕𝗢𝗧 - 𝐒𝐀𝐈𝐅𝐔𝐋 𝐈𝐒𝐋𝐀𝐌  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
+<!-- Github README -->
 
-Welcome to **Saiful Bot v2**! This is a powerful and customizable bot built for automating various tasks on Facebook Messenger.
+<p align="center"><img src="https://img.shields.io/badge/I Am Saiful %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
-## Table of Contents
+</i></b></h3>
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  &nbsp; ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴄʜᴀᴛ ʙᴏᴛ &nbsp;
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+</h3>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [FCA Options](#fca-options)
-- [Contributing](#contributing)
-- [License](#license)
 
-## Features
 
-- Supports Facebook chat automation.
-- Customizable commands and event handling.
-- Supports two different FCA (Facebook Chat API) packages.
-- Highly scalable and efficient for multiple users.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙸𝙽𝙽𝙾𝙲𝙴𝙽𝚃+𝙱𝙾𝚈;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙹𝚄𝚂𝚃+𝙰+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'R+A+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
 
-## Installation
 
-To install the bot, follow these steps:
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/BAYJID-404-BOYZ"><img width=550 src="https://github-profile-trophy.vercel.app/?username=𝐒𝐀𝐈𝐅𝐔𝐋 𝐈𝐒𝐋𝐀𝐌&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/saiful069/Saif-bot-v2.git
-    ```
+</p>
+<p align="center"> 
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/Saiful-404-BOYA /count.svg" alt="Visitors">
+</p>
 
-2. **Navigate to the project directory**:
-    ```bash
-    cd Saiful-bot-v2
-    ```
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-3. **Install the dependencies**:
-    ```bash
-    npm install
-    ```
+<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
-4. **Start the bot**:
-    ```bash
-    npm start
-    ```
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-## FCA Options
+- ➪ 𝗡𝗔𝗠𝗘      :𝗦𝗔𝗜𝗙𝗨𝗟 𝗜𝗦𝗟𝗔𝗠
 
-This project supports two FCA (Facebook Chat API) options:
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-1. **fca-saiful**
-2. **saiful-fca** (Recommended)
+- ➪  𝗥𝗘𝗟𝗜𝗚𝗜𝗢𝗡   : 𝗜𝗦𝗟𝗔𝗠
 
-You can choose to use either of these options, but it's recommended to use **saiful-fca** for the best performance and stability.
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-## Usage
+- ➪ 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡 :- 𝗪𝗢𝗥𝗞
 
-Once the bot is installed and running, you can:
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- Customize commands and events in the respective directories.
-- Modify configurations as per your requirements.
-- Ensure you have the correct Facebook credentials for login.
+- ➪ 𝗥𝗘𝗟𝗔𝗧𝗜𝗢𝗡𝗦𝗛𝗜𝗣 :- 𝗦𝗜𝗡𝗚𝗟𝗘
 
-## Contributing
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-Contributions are welcome! If you'd like to improve the bot, feel free to submit a pull request or open an issue.
+- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [𝗦𝗮𝗶𝗳𝘂𝗹 𝗜𝘀𝗹𝗮𝗺](https://www.facebook.com/share/1BGUzb9Agg/)
 
-## License
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+- ➪ 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 :- [𝗦𝗮𝗶𝗳𝘂𝗹 𝗜𝘀𝗹𝗮𝗺](https://www.instagram.com/saifulislam014?igsh=OWU4M2I0OXFjdGty)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+<h3><b><i> Contact me in Touch :</i></b></h3>
+<a href="https://github.com/Saiful-404-BOYZ"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
+<a href="https://fb.com/Saiful.404-BOYZ"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
+<a href="https://www.instagram.com/mr_bayjid120"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
