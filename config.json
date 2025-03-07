@@ -6,7 +6,7 @@
     "notiGroup": true,
     "NOTIFICATION": true,
     "allowInbox": false,
-    "autoClean": true,
+    "autoClean": false,
     "commandDisabled": [
         "sim.js"
     ],
