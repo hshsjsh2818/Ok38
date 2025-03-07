@@ -121,8 +121,8 @@ registerFont(__dirname + `/tad/CaviarDreams.ttf`, {
     });
     ctx.textAlign = "start";
     ctx.font = "45px time";
-    ctx.fillText("@" + "saiful.islam.official", 250, 515)
-    ctx.fillText("@" + "sai_ful13", 250, 575)
+    ctx.fillText("@" + "𝐒𝐀𝐈𝐅𝐔𝐋𝐈𝐒𝐋𝐀𝐌6913", 250, 515)
+    ctx.fillText("@" + "𝐒𝐀𝐈𝐅𝐔𝐋𝐈𝐒𝐋𝐀𝐌014", 250, 575)
    //ctx.fillText("@" + "DVFB.VietLe.pro", 405, 750)
     ctx.restore();
     ctx.save();
