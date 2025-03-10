@@ -6,7 +6,7 @@ module.exports.config = {
   description: "Make the bot return google's audio file via text",
   usePrefix: false,
   commandCategory: "Song/video",
-  usages: "[ru/en/ko/ja/tl] [Text]",
+  usages: "[ru/en/ko/ja/bn] [Text]",
   cooldowns: 5,
   dependencies: {
     "path": "",
@@ -21,7 +21,7 @@ module.exports.run = async function({ api, event, args }) {
 
     var content = (event.type == "message_reply") ? event.messageReply.body : args.join(" ");
     var languageToSay = "";
-    var supportedLanguages = ["ru", "en", "ko", "ja", "tl"];
+    var supportedLanguages = ["ru", "en", "ko", "ja", "bn"];
 
     for (let lang of supportedLanguages) {
       if (content.indexOf(lang) == 0) {
