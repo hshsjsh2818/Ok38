@@ -1,5 +1,5 @@
 module.exports.config = {
-    name: 'autotime2',
+    name: 'autotime',
     version: '10.02',
     hasPermssion: 0,
     credits: 'Abdulla',
